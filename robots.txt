@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://belghisabdullahi.github.io/docs-pwj17o/sitemap.xml
